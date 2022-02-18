@@ -1,0 +1,23 @@
+{
+  "name": "http-requests",
+  "version": "1.0.0",
+  "description": "In this assignment we will grab some data from the publicapis and manipulate it to show a certain way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDI-201/HTTP-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WDI-201/HTTP-HW/issues"
+  },
+  "homepage": "https://github.com/WDI-201/HTTP-HW#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
